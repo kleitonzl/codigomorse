@@ -1,0 +1,3 @@
+export const JWT_SECRET =
+  "eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTcyMjQyMjQ5NiwiaWF0IjoxNzIyNDIyNDk2fQ.zBc5x08AE25mY4p4CGZO0q2XcDFzoeKT2zbBd90jeyo";
+export const JWT_EXPIRES_IN = "1h"; 
